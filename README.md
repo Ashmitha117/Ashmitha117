@@ -143,17 +143,4 @@
 </p>
 ```
 
-## ✅ How to Apply It
 
-1. Open your profile repository:
-   `https://github.com/Ashmitha117/Ashmitha117`
-
-2. Open `README.md`
-
-3. Click the ✏️ Edit button
-
-4. Delete existing content
-
-5. Paste the complete README above
-
-6. Click **Commit Changes**
